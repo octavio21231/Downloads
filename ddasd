@@ -1,0 +1,5 @@
+import time
+
+while True:
+    print("Isso é impresso uma vez por minuto.")
+    time.sleep(60)  # Atraso de 1 minuto (60 segundos)
